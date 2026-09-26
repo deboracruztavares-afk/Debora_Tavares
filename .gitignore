@@ -23,3 +23,13 @@ yarn-error.log*
 # System Files
 .DS_Store
 Thumbs.db
+
+# Runtime artifacts gerados pelos hooks
+__pycache__/
+*.pyc
+.claude/logs/
+.claude/mission-control/
+.claude/sessions/
+logs/CHRONICLE/
+logs/handoffs/
+logs/prompts.jsonl
