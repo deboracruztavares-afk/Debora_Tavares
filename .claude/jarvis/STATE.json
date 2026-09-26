@@ -6,7 +6,7 @@
   "session": {
     "id": null,
     "started_at": null,
-    "last_action_at": "2026-09-26T01:55:29.336750",
+    "last_action_at": "2026-09-26T01:56:37.856977",
     "is_active": false
   },
   "current_state": {
@@ -21,14 +21,14 @@
     "priority": "normal"
   },
   "metrics": {
-    "sessions_total": 38,
+    "sessions_total": 40,
     "files_processed": 0,
     "insights_extracted": 0
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 37,
+    "prompt_count": 38,
     "bracket": "FRESH",
-    "context_percent": 72.2
+    "context_percent": 71.5
   }
 }
