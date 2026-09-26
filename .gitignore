@@ -33,3 +33,4 @@ __pycache__/
 logs/CHRONICLE/
 logs/handoffs/
 logs/prompts.jsonl
+.claude/jarvis/STATE.json
